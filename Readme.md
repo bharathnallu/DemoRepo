@@ -6,3 +6,5 @@
 ### Adding the third change
 
 This needs to be unstagged
+
+# adding a conflict line to trigger the merge conflict
